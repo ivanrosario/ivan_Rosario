@@ -1,0 +1,32 @@
+1.) for(var i = 1; i <= 10; i++) {
+	console.log(i);
+} 
+
+2.) var firstname = " Ivan"
+ 
+var lastname  = " Rosario"
+
+console.log("hello there ! my name is" + firstname  +  lastname)
+
+3.) 
+for(  var i = 1; i <= 4; i++) {
+        console.log('Ivan rosario');
+}
+4.) 
+var team = ["ivan","ian", "lesly","victoria"]
+
+
+for(  var i = 1; i <= 1; i++) {
+  console.log(team)
+}
+ 5.) 
+var team = ["ivan","ian", "lesly","victoria"]
+
+
+for(  var i = 0; i <= 3; i++) {
+  console.log(team[i])
+}
+6.)  for(var i= 10; i>= 1; i--) {
+        console.log(i);
+ }
+
